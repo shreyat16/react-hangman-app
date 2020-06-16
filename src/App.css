@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://images-na.ssl-images-amazon.com/images/I/81FKqRH0e2L._AC_SL1500_.jpg");
+  background-size: cover;
+}
